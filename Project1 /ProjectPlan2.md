@@ -1,6 +1,6 @@
 #Project Plan --- Average Sentence Length --- Team 22
 
-##1. Introduction
+##1. Introduction (JENSEN VANG IS TESTING THIS FILE)
 
 The goal of this project is to design and implement a java command line tool that will analyze an input text file to determine the average sentence length.  The purpose of the tool is for university students to improve their essay writing by enabling them to track their average words per sentence metric and use it as a benchmark for learning to write more concise sentences.
 
